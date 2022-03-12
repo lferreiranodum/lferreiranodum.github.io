@@ -1,1 +1,1 @@
--  [peteco](peteco.md) 
+-  [peteco](core/peteco.md) 
