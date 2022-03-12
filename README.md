@@ -1,0 +1,2 @@
+# coredocs
+Core docs
